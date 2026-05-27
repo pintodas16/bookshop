@@ -1,4 +1,4 @@
-import logoImg from "../assets/images/logo.svg";
+
 import newLogoImg from "../assets/images/image.png";
 function Navbar({ term, setSearchTerm }) {
   return (
